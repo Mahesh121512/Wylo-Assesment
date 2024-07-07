@@ -1,0 +1,19 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "Sample Post 1",
+      "content": "This is a sample post."
+    },
+    {
+      "id": "2",
+      "title": "Sample Post 2",
+      "content": "This is another sample post."
+    },
+    {
+      "id": 1720324735022,
+      "title": "mahesh",
+      "content": "sdcnjmwefflskcLSD"
+    }
+  ]
+}
